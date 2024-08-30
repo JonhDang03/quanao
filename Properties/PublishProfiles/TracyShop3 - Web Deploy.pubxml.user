@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAegJyWRlN3EyxZ1VTviQz6wAAAAACAAAAAAAQZgAAAAEAACAAAADTzZtnTGXxa+VmC4dZ7p+hZlxvcRWVrv0gQxDingRMtAAAAAAOgAAAAAIAACAAAACTvheQN+Yl4akIEt59l2acWpfuS9+eGiZcs6KeZ/vn/oAAAAC7WYKTYvVgtUA4RvIQMDFLjey42VjqdAhxIgztfGJeNiD6Q8eyxrIuIQBr9AsRcN0EbjAOmbiovxBwKeqvsC+/cGET+6goWXAyMKuY0vFtrM6Px8YoKaoB1RiicJpaxM/wJ/kNdOMsDFnMwaTkErVtSiKbjtQmZqYR3BDoMBEyzUAAAAA33zkPOxTZKg3tjX7RNZueKxMnnN9UxTIGNoauU9sQoZU0Gl3sVE9cDT31tP9W+Xm9BRczWpwvmz8UwyxuU7al</EncryptedPassword>
+    <History>True|2024-08-25T14:18:59.7322553Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AppDbContext">
+      <Value>Server=tcp:tracyshop.database.windows.net,1433%3bInitial Catalog=tracyshop%3bPersist Security Info=False%3bUser ID=tracyshop_admin%3bPassword=Hau27042003%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=True%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
